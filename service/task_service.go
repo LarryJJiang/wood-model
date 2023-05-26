@@ -1,9 +1,9 @@
 package service
 
 import (
-	"wood-client-api/mapper"
-	"wood-client-api/models"
-	"wood-client-api/pkg/util/convert"
+	"woods/mapper"
+	"woods/models"
+	"woods/pkg/util/convert"
 )
 
 type taskService struct {

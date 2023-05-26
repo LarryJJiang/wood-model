@@ -2,9 +2,9 @@ package service
 
 import (
 	"github.com/jinzhu/gorm"
-	"wood-client-api/mapper"
-	"wood-client-api/models"
-	"wood-client-api/pkg/util"
+	"woods/mapper"
+	"woods/models"
+	"woods/pkg/util"
 )
 
 type carrierService struct {

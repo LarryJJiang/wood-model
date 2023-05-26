@@ -3,9 +3,9 @@ package mapper
 import (
 	"fmt"
 	"time"
-	"wood-client-api/models"
-	bizcode "wood-client-api/pkg/bizerror"
-	"wood-client-api/pkg/util"
+	"woods/models"
+	bizcode "woods/pkg/bizerror"
+	"woods/pkg/util"
 )
 
 type CrewMapper struct {

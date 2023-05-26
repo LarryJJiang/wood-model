@@ -8,10 +8,10 @@ import (
 	"path"
 	"strings"
 
-	"wood/pkg/file"
-	"wood/pkg/logging"
-	"wood/pkg/setting"
-	"wood/pkg/util"
+	"woods/pkg/file"
+	"woods/pkg/logging"
+	"woods/pkg/setting"
+	"woods/pkg/util"
 )
 
 // GetFileFullUrl get the full access path

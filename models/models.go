@@ -7,7 +7,7 @@ import (
 	"log"
 	"strings"
 	"time"
-	"wood/pkg/setting"
+	"woods/pkg/setting"
 )
 
 type Model struct {

@@ -3,10 +3,10 @@ package service
 import (
 	"fmt"
 	"github.com/pkg/errors"
-	"wood-client-api/mapper"
-	"wood-client-api/models"
-	"wood-client-api/pkg/util/convert"
-	valid "wood-client-api/validation"
+	"woods/mapper"
+	"woods/models"
+	"woods/pkg/util/convert"
+	valid "woods/validation"
 )
 
 type vehicleService struct {

@@ -1,8 +1,8 @@
 package service
 
 import (
-	"wood-client-api/mapper"
-	"wood-client-api/models"
+	"woods/mapper"
+	"woods/models"
 )
 
 type crewCarrierRelationService struct {

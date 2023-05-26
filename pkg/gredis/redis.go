@@ -2,11 +2,11 @@ package gredis
 
 import (
 	"time"
-	"wood/pkg/logging"
+	"woods/pkg/logging"
 
 	"github.com/gomodule/redigo/redis"
 
-	"wood/pkg/setting"
+	"woods/pkg/setting"
 )
 
 var RedisConn *redis.Pool

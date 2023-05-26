@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/gomodule/redigo/redis"
 	"log"
-	"wood/pkg/logging"
+	"woods/pkg/logging"
 )
 
 // Set a key/value

@@ -1,8 +1,8 @@
 package models
 
 import (
-	"wood/pkg/setting"
-	"wood/pkg/util/convert"
+	"woods/pkg/setting"
+	"woods/pkg/util/convert"
 )
 
 // 质控考核题目答案表

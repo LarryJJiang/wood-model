@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"golang.org/x/crypto/bcrypt"
 	"golang.org/x/crypto/scrypt"
-	"wood/pkg/constant"
+	"woods/pkg/constant"
 )
 
 func GeneratePassHash(password string, salt string) (hash string, err error) {

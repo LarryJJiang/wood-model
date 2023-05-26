@@ -6,10 +6,10 @@ import (
 	"github.com/pkg/errors"
 	"strconv"
 	"time"
-	"wood-client-api/mapper"
-	"wood-client-api/models"
-	"wood-client-api/pkg/util"
-	valid "wood-client-api/validation"
+	"woods/mapper"
+	"woods/models"
+	"woods/pkg/util"
+	valid "woods/validation"
 )
 
 type stockService struct {

@@ -3,13 +3,13 @@ package logging
 import (
 	golog "github.com/ikaiguang/go-utils/log"
 	"github.com/sirupsen/logrus"
-	"github.com/wood/models"
+	"github.com/LarryJJiang/woods/models"
 	"io/ioutil"
 	"log"
 	"path/filepath"
 	"strings"
 	"time"
-	"wood/pkg/setting"
+	"woods/pkg/setting"
 )
 
 // logHandler .

@@ -2,8 +2,8 @@ package service
 
 import (
 	"github.com/jinzhu/gorm"
-	"wood-client-api/mapper"
-	"wood-client-api/models"
+	"woods/mapper"
+	"woods/models"
 )
 
 type stockRecordService struct {

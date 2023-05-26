@@ -17,10 +17,10 @@ import (
 	"github.com/jinzhu/gorm"
 	"reflect"
 	"strings"
-	"wood-client-api/models"
-	bizcode "wood-client-api/pkg/bizerror"
-	"wood-client-api/pkg/logging"
-	"wood-client-api/pkg/util"
+	"woods/models"
+	bizcode "woods/pkg/bizerror"
+	"woods/pkg/logging"
+	"woods/pkg/util"
 )
 
 type PageWhereOrder struct {

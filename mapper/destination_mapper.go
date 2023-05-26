@@ -1,9 +1,9 @@
 package mapper
 
 import (
-	"wood-client-api/models"
-	bizcode "wood-client-api/pkg/bizerror"
-	"wood-client-api/pkg/util"
+	"woods/models"
+	bizcode "woods/pkg/bizerror"
+	"woods/pkg/util"
 )
 
 type DestinationMapper struct {

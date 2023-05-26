@@ -2,7 +2,7 @@ package check
 
 import (
 	"github.com/astaxie/beego/validation"
-	"wood/pkg/bizerror"
+	"woods/pkg/bizerror"
 )
 
 func CheckParams(params interface{}) {

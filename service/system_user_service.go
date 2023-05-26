@@ -3,9 +3,9 @@ package service
 import (
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"
-	"wood-client-api/mapper"
-	"wood-client-api/models"
-	"wood-client-api/pkg/crypt"
+	"woods/mapper"
+	"woods/models"
+	"woods/pkg/crypt"
 )
 
 type systemUserService struct {

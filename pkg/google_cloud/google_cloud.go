@@ -10,8 +10,8 @@ import (
 	"io/ioutil"
 	"regexp"
 	"strings"
-	"wood/pkg/logging"
-	"wood/pkg/setting"
+	"woods/pkg/logging"
+	"woods/pkg/setting"
 )
 
 type FileInfo struct {

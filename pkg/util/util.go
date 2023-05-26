@@ -17,9 +17,9 @@ import (
 	"sort"
 	"strings"
 	"time"
-	"wood/pkg/logging"
-	"wood/pkg/setting"
-	"wood/pkg/util/convert"
+	"woods/pkg/logging"
+	"woods/pkg/setting"
+	"woods/pkg/util/convert"
 )
 
 // Setup Initialize the util

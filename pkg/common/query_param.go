@@ -4,8 +4,8 @@ import (
 	"errors"
 	"github.com/gin-gonic/gin"
 	"strconv"
-	"wood/pkg/logging"
-	"wood/pkg/util/convert"
+	"woods/pkg/logging"
+	"woods/pkg/util/convert"
 )
 
 func GetQueryToStrE(c *gin.Context, key string) (string, error) {

@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	imgtype "github.com/shamsher31/goimgtype"
-	"wood/pkg/file"
-	"wood/pkg/logging"
-	"wood/pkg/setting"
-	"wood/pkg/util"
+	"woods/pkg/file"
+	"woods/pkg/logging"
+	"woods/pkg/setting"
+	"woods/pkg/util"
 )
 
 // GetImageFullUrl get the full access path

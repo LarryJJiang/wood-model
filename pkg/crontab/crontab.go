@@ -2,10 +2,8 @@ package crontab
 
 import (
 	"fmt"
-	"github.com/jinzhu/gorm"
 	"github.com/robfig/cron/v3"
-	"wood/models"
-	"wood/pkg/util"
+	"woods/pkg/util"
 )
 
 var crontab *cron.Cron

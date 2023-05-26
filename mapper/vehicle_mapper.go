@@ -1,8 +1,8 @@
 package mapper
 
 import (
-	"wood-client-api/models"
-	bizcode "wood-client-api/pkg/bizerror"
+	"woods/models"
+	bizcode "woods/pkg/bizerror"
 )
 
 type VehicleMapper struct {

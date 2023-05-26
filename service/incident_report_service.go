@@ -1,9 +1,9 @@
 package service
 
 import (
-	"wood-client-api/mapper"
-	"wood-client-api/models"
-	valid "wood-client-api/validation"
+	"woods/mapper"
+	"woods/models"
+	valid "woods/validation"
 )
 
 type incidentService struct {

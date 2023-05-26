@@ -3,8 +3,8 @@ package models
 import (
 	"reflect"
 	"strings"
-	"wood/pkg/setting"
-	"wood/pkg/util/convert"
+	"woods/pkg/setting"
+	"woods/pkg/util/convert"
 )
 
 // 客户/林场表

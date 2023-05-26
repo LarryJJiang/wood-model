@@ -5,11 +5,11 @@ import (
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"
 	"sync"
-	"wood-client-api/mapper"
-	"wood-client-api/models"
-	bizcode "wood-client-api/pkg/bizerror"
-	"wood-client-api/pkg/e"
-	"wood-client-api/pkg/util"
+	"woods/mapper"
+	"woods/models"
+	bizcode "woods/pkg/bizerror"
+	"woods/pkg/e"
+	"woods/pkg/util"
 )
 
 type BaseServiceInterface interface {
