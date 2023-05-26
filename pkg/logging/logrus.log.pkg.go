@@ -3,7 +3,6 @@ package logging
 import (
 	golog "github.com/ikaiguang/go-utils/log"
 	"github.com/sirupsen/logrus"
-	"github.com/LarryJJiang/woods/models"
 	"io/ioutil"
 	"log"
 	"path/filepath"
